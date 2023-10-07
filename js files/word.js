@@ -403,4 +403,192 @@ let words = [
         word: "mole stew",
         hint: "A popular northern Ghanaian stew made with groundnut paste."
     },
+    {
+        word: "independence",
+        hint: "Ghana gained its independence from British colonial rule in 1957."
+    },
+    {
+        word: "democracy",
+        hint: "Ghana is known for its stable democracy and multi-party political system."
+    },
+    {
+        word: "constitution",
+        hint: "The 1992 Constitution of Ghana is the supreme law of the land."
+    },
+    {
+        word: "president",
+        hint: "The head of state and government in Ghana."
+    },
+    {
+        word: "parliament",
+        hint: "The legislative body responsible for making laws."
+    },
+    {
+        word: "elections",
+        hint: "Regular elections are held to choose leaders at various levels of government."
+    },
+    {
+        word: "opposition",
+        hint: "Political parties that are not in power."
+    },
+    {
+        word: "corruption",
+        hint: "The fight against corruption is a key governance issue."
+    },
+    {
+        word: "development",
+        hint: "Ghana's leaders strive for economic and social development."
+    },
+    {
+        word: "human rights",
+        hint: "Respect for human rights is a fundamental aspect of governance."
+    },
+    {
+        word: "education",
+        hint: "Investment in education is essential for the country's future."
+    },
+    {
+        word: "healthcare",
+        hint: "Access to quality healthcare is a critical governance concern."
+    },
+    {
+        word: "infrastructure",
+        hint: "Building and maintaining infrastructure is a government responsibility."
+    },
+    {
+        word: "foreign policy",
+        hint: "Ghana's foreign relations and diplomatic efforts."
+    },
+    {
+        word: "decentralization",
+        hint: "Local governance and decentralization of power."
+    },
+    {
+        word: "resource management",
+        hint: "Effective management of natural resources for national benefit."
+    },
+    {
+        word: "judiciary",
+        hint: "The judiciary plays a crucial role in upholding the rule of law."
+    },
+    {
+        word: "transparency",
+        hint: "Openness and transparency in government operations."
+    },
+    {
+        word: "accountability",
+        hint: "Holding public officials accountable for their actions."
+    },
+    {
+        word: "political stability",
+        hint: "Ghana is known for its political stability in the region."
+    },
+    {
+        word: "youth empowerment",
+        hint: "Empowering the youth for a brighter future."
+    },
+    {
+        word: "gender equality",
+        hint: "Promoting gender equality in all aspects of society."
+    },
+    {
+        word: "economic growth",
+        hint: "Policies aimed at fostering economic growth and prosperity."
+    },
+    {
+        word: "civic engagement",
+        hint: "Active participation of citizens in governance."
+    },
+    {
+        word: "foreign aid",
+        hint: "Ghana receives foreign aid to support its development efforts."
+    },
+    {
+        word: "public services",
+        hint: "Delivery of essential public services to citizens."
+    },
+    {
+        word: "peaceful coexistence",
+        hint: "Promoting peace and harmony among diverse communities."
+    },
+    {
+        word: "taxation",
+        hint: "Revenue generation through taxation for public expenditure."
+    },
+    {
+        word: "civil society",
+        hint: "Non-governmental organizations and their role in governance."
+    },
+    {
+        word: "anti-corruption measures",
+        hint: "Efforts to combat corruption in public and private sectors."
+    },
+    {
+        word: "foreign trade",
+        hint: "International trade agreements and partnerships."
+    },
+    {
+        word: "energy sector",
+        hint: "Management of energy resources for power generation."
+    },
+    {
+        word: "social justice",
+        hint: "Ensuring fairness and equity in society."
+    },
+    {
+        word: "urbanization",
+        hint: "Challenges and opportunities posed by urban growth."
+    },
+    {
+        word: "environmental protection",
+        hint: "Preserving Ghana's natural environment and biodiversity."
+    },
+    {
+        word: "peacekeeping missions",
+        hint: "Ghana's contributions to international peacekeeping efforts."
+    },
+    {
+        word: "voter registration",
+        hint: "The process of registering voters for elections."
+    },
+    {
+        word: "fiscal policy",
+        hint: "Government's taxation and spending policies."
+    },
+    {
+        word: "national security",
+        hint: "Ensuring the safety and security of the nation."
+    },
+    {
+        word: "trade unions",
+        hint: "Labor organizations advocating for workers' rights."
+    },
+    {
+        word: "foreign debt",
+        hint: "Managing the country's external debt obligations."
+    },
+    {
+        word: "telecommunications",
+        hint: "Advancements in communication technology."
+    },
+    {
+        word: "culture preservation",
+        hint: "Promoting and preserving Ghana's rich cultural heritage."
+    },
+    {
+        word: "agricultural policy",
+        hint: "Policies related to agriculture and food security."
+    },
+    {
+        word: "tourism promotion",
+        hint: "Attracting tourists to explore Ghana's attractions."
+    },
+    {
+        word: "immigration policy",
+        hint: "Regulations governing immigration and visas."
+    },
+    {
+        word: "digital economy",
+        hint: "Harnessing digital technologies for economic growth."
+    },
 ];
