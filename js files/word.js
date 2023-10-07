@@ -1,5 +1,201 @@
 let words = [
     {
+        word: "kente",
+        hint: "Traditional colorful woven fabric"
+    },
+    {
+        word: "batakari",
+        hint: "Loose-fitting smock-style clothing"
+    },
+    {
+        word: "silk print",
+        hint: "Brightly patterned fabric often used for dresses"
+    },
+    {
+        word: "fugu",
+        hint: "Northern Ghanaian clothing made of handwoven strips"
+    },
+    {
+        word: "ntama",
+        hint: "Adinkra symbol representing knowledge"
+    },
+    {
+        word: "adinkra symbols",
+        hint: "African symbols used on clothing to convey messages"
+    },
+    {
+        word: "beads",
+        hint: "Colorful ornaments often incorporated into clothing"
+    },
+    {
+        word: "dashiki",
+        hint: "Loose, brightly colored shirt"
+    },
+    {
+        word: "slippers",
+        hint: "Flat, open-toed footwear commonly worn"
+    },
+    {
+        word: "headwraps",
+        hint: "Cloth wrapped around the head in various styles"
+    },
+    {
+        word: "agbada",
+        hint: "Flowing robe with wide sleeves"
+    },
+    {
+        word: "kufi cap",
+        hint: "Traditional African brimless hat"
+    },
+    {
+        word: "smock",
+        hint: "Traditional clothing with embroidery"
+    },
+    {
+        word: "bead necklaces",
+        hint: "String of colorful beads worn around the neck"
+    },
+    {
+        word: "wooden sandals",
+        hint: "Footwear made from carved wood"
+    },
+    {
+        word: "ankara fabric",
+        hint: "African print fabric used in clothing"
+    },
+    {
+        word: "bangles",
+        hint: "Bracelets worn as accessories"
+    },
+    {
+        word: "agogo bells",
+        hint: "Musical instrument often used as decoration"
+    },
+    {
+        word: "leather belts",
+        hint: "Accessories to complement clothing"
+    },
+    {
+        word: "traditional beads",
+        hint: "Handmade beads used in jewelry and clothing"
+    },
+    {
+        word: "wrapper",
+        hint: "Large piece of fabric often used as a skirt"
+    },
+    {
+        word: "fez cap",
+        hint: "Round, flat-topped hat with a tassel"
+    },
+    {
+        word: "sandals",
+        hint: "Open-toed shoes made from various materials"
+    },
+    {
+        word: "brocade fabric",
+        hint: "Richly decorative woven fabric"
+    },
+    {
+        word: "smock dress",
+        hint: "Dress-style version of traditional smock"
+    },
+    {
+        word: "turban",
+        hint: "Headwrap style often worn by women"
+    },
+    {
+        word: "kente stole",
+        hint: "Strip of kente fabric worn over the shoulder"
+    },
+    {
+        word: "cowrie shells",
+        hint: "Small, shiny shells used as decoration"
+    },
+    {
+        word: "rasta beads",
+        hint: "Beads worn in hair by Rastafarians"
+    },
+    {
+        word: "kente bowtie",
+        hint: "Kente fabric used to make bowties"
+    },
+    {
+        word: "kente headband",
+        hint: "Strip of kente fabric worn as a headband"
+    },
+    {
+        word: "wax print",
+        hint: "Brightly colored, patterned fabric"
+    },
+    {
+        word: "leather sandals",
+        hint: "Footwear made from leather"
+    },
+    {
+        word: "kaftan",
+        hint: "Loose-fitting, ankle-length robe"
+    },
+    {
+        word: "horn accessories",
+        hint: "Jewelry made from animal horns"
+    },
+    {
+        word: "ghanaian lace",
+        hint: "Elegant lace fabric used in clothing"
+    },
+    {
+        word: "braid extensions",
+        hint: "Hair extensions often adorned with beads"
+    },
+    {
+        word: "batik fabric",
+        hint: "Hand-dyed fabric with unique patterns"
+    },
+    {
+        word: "beaded sandals",
+        hint: "Sandals decorated with beads"
+    },
+    {
+        word: "traditional earrings",
+        hint: "Ornate earrings with cultural significance"
+    },
+    {
+        word: "smock hat",
+        hint: "Hat made from smock fabric"
+    },
+    {
+        word: "ankle beads",
+        hint: "Beaded jewelry worn around the ankle"
+    },
+    {
+        word: "leather bags",
+        hint: "Handcrafted bags made from leather"
+    },
+    {
+        word: "kente sash",
+        hint: "Kente fabric used as a decorative sash"
+    },
+    {
+        word: "ghanaian prints",
+        hint: "Vibrant fabric prints used in clothing"
+    },
+    {
+        word: "traditional bracelets",
+        hint: "Ethnic bracelets made from various materials"
+    },
+    {
+        word: "sandals with shells",
+        hint: "Footwear adorned with cowrie shells"
+    },
+    {
+        word: "kente scarf",
+        hint: "Kente fabric used as a scarf"
+    },
+    {
+        word: "african motifs",
+        hint: "Artistic designs often used in clothing"
+    },,
+    {
         word: "fufu",
         hint: "Traditional Ghanaian staple food made from cassava and plantains."
     },
