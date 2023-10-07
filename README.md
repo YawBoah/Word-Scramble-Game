@@ -2,6 +2,9 @@
 
 This is a simple Word Scramble Game built using HTML, CSS, and JavaScript. The game provides users with a scrambled word and a hint, and they need to unscramble the word and type it into an input field. They can then check if their word is correct or refresh to get a new word.
 
+![image](https://github.com/YawBoah/Word-Scramble-Game/assets/126890146/1f2f43fb-2a12-473f-ab11-34b1ca830439)
+
+
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
