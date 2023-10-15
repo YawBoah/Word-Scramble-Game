@@ -41,13 +41,12 @@ The game uses the following technologies:
 - CSS3
 - JavaScript
 
-## Credits
-
-This Word Scramble Game was created by [YawBoah] and is provided as an open-source project. Feel free to use, modify, and share it.
 
 ## License
 
 This game is licensed under the [MIT License](LICENSE).
+
+[Click here to have an experience of the game](https://yawboah.github.io/Word-Scramble-Game/)
 
 Enjoy playing the Word Scramble Game! If you have any questions or feedback, please don't hesitate to contact us.
 
